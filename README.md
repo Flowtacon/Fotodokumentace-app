@@ -1,0 +1,1 @@
+# Fotodokumentace-app-Mezi-n-mi-o.p.s.
