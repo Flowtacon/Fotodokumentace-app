@@ -1,6 +1,6 @@
 // --- KONFIGURACE ---
-const MASTER_FOLDER_ID = '1_e5ulgT-EYk8Oa67FZ25msmXE_oA5RUO'; 
-const SPREADSHEET_ID = '10fs7DYRTXwsfxE9dJ9HYRMrgy0IbQUDcEu8orUDtQDo'; 
+const MASTER_FOLDER_ID = 'INPUT_MASTER_FOLDER_ID'; 
+const SPREADSHEET_ID = 'INPUT_DATABASE_ID'; 
 
 function doGet() {
   var template = HtmlService.createTemplateFromFile('Index');
@@ -77,4 +77,5 @@ function vynutitPovoleni() {
   // Toto je jen pro vyvolání autorizačního okna
   SpreadsheetApp.openById(SPREADSHEET_ID);
   DriveApp.getRootFolder();
+
 }
