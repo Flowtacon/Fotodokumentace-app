@@ -47,11 +47,11 @@ If you need to deploy the application to a new Google Workspace account, follow 
 1. Create a **Root Folder** on Google Drive (e.g., "PHOTO_DOCUMENTATION"). Copy its **ID** from the URL.
 
 # README CZ:
-# Fotodokumentace-app-Mezi-n-mi-o.p.s.
+# Fotodokumentace-app
 
-# 📸 Archivace Fotek - Mezi námi (Google Apps Script Web App)
+# 📸 Archivace Fotek -(Google Apps Script Web App)
 
-Jednoduchá a efektivní webová aplikace (PWA) pro sběr a archivaci fotografií z akcí neziskové organizace **Mezi námi**.
+Jednoduchá a efektivní webová aplikace (PWA) pro sběr a archivaci fotografií z akcí klienta.
 
 Aplikace slouží lektorům k nahrávání fotografií přímo z mobilního telefonu do strukturovaných složek na Google Drive. Řešení je postaveno na Google Apps Script, je bezplatné na provoz a optimalizované pro mobilní data.
 
