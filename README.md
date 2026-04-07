@@ -1,8 +1,8 @@
 # README EN:
 
-# Fotodokumentace-app-Mezi-n-mi-o.p.s.
+# Fotodokumentace-app
 
-# 📸 Photo Archiving - Mezi námi (Google Apps Script Web App)
+# 📸 Photo Archiving (Google Apps Script Web App)
 
 A simple and effective web application (PWA) for collecting and archiving photos from events organized by the non-profit **Mezi námi**.
 
