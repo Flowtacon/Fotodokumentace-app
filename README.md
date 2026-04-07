@@ -4,7 +4,7 @@
 
 # 📸 Photo Archiving (Google Apps Script Web App)
 
-A simple and effective web application (PWA) for collecting and archiving photos from events organized by the non-profit **Mezi námi**.
+A simple and effective web application (PWA) for collecting and archiving photos from events organized by the client.
 
 The application serves lecturers, allowing them to upload photos directly from their mobile phones into structured folders on Google Drive. The solution is built on Google Apps Script, is free to operate, and optimized for mobile data usage.
 
